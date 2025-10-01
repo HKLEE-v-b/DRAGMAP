@@ -13,6 +13,8 @@
 #ifndef __READ_GROUP_LIST_HPP__
 #define __READ_GROUP_LIST_HPP__
 
+#include <cstdint>
+
 #include "dragen_exception.hpp"
 class ReadGroupList {
 public:

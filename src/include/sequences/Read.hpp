@@ -18,6 +18,7 @@
 #include <iostream>
 #include <string>
 #include <vector>
+#include <cstdint>
 
 namespace dragenos {
 namespace sequences {
